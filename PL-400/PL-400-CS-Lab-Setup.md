@@ -21,7 +21,7 @@ Tenants must not be converted to a paid subscription. Tenants obtained as a part
 
 1. From the lab virtual machine, select the Windows **Start** icon and search for **PowerShell** then open **PowerShell as Administrator**.
 
-   ![Start Powershell as administrator.](../images/L00/start-powershell.png)
+   ![Start Powershell as administrator.](https://github.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/raw/master/Instructions/images/L00/start-powershell.png)
 
 1. Select **Yes** if prompted.
 
