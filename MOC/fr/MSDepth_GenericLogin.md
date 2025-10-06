@@ -14,7 +14,7 @@ Tous les identifiants peuvent être trouvés dans l'onglet **Ressources** de l'i
 
 Nom d'utilisateur : +++@lab.VirtualMachine(ML-SEA-Dev).Username+++
 
-Mot de passe : +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
+Mot de passe : +++@lab.VirtualMachine(ML-SEA-Dev).AccessToken+++
 
 <u>**Microsoft 365**</u>
 
